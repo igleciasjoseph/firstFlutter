@@ -1,6 +1,8 @@
-# first_flutter
+# My First Flutter App. 
 
 A new Flutter application.
+
+Basic practice of widgets and StateLess
 
 ## Getting Started
 
